@@ -3,21 +3,21 @@
 <!-- ### Hi there, I'm [Ismael!](https://espifreelancer.github.io) 👋 -->
 
 <a href="https://twitter.com/espifreelancer">
-  <img align="left" alt="EspiFreelancer | Twitter" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/main/assets/twitter.svg" />
+  <img align="left" alt="EspiFreelancer | Twitter" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/master/assets/twitter.svg" />
 </a>
 <a href="https://ar.linkedin.com/in/espifreelancer">
-  <img align="left" alt="EspiFreelancer | LinkedIn" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/main/assets/linkedin.svg" />
+  <img align="left" alt="EspiFreelancer | LinkedIn" width="21px" src="https://raw.githubusercontent.com/EspiFreelancer/EspiFreelancer/master/assets/linkedin.png" />
 </a>
-<a href="https://ar.linkedin.com/in/espifreelancer">
-  <img align="left" alt="EspiFreelancer | LinkedIn" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/main/assets/webglobe.svg" />
+<a href="https://espifreelancer.com">
+  <img align="left" alt="EspiFreelancer | Blog" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/master/assets/webglobe.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Ismael Espindola, a passionate self-taught backend web developer and visual designer from Argentina.
+Hi, I'm Ismael Espindola, a passionate self-taught Backend Developer and Visual Designer from Argentina.
 
-- 🔭 I’m currently working on my project [Simple website in Django](https://github.com/EspiFreelancer/Django_simple_website)
+- 🔭 I’m currently working on my project [Simple Django-based website](https://github.com/EspiFreelancer/Django_simple_website)
 - 🌱 I’m currently learning Node.js
 - 👯 I am looking to collaborate on an innovative projects with great teams!
 
