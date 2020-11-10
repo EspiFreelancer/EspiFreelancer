@@ -1,6 +1,4 @@
-### Hi there, I'm Ismael (EspiFreelancer) 👋
-
-<!-- ### Hi there, I'm [Ismael!](https://espifreelancer.github.io) 👋 -->
+### Hi there, I'm [EspiFreelancer](https://espifreelancer.github.io) 👋
 
 <a href="https://twitter.com/espifreelancer">
   <img align="left" alt="EspiFreelancer | Twitter" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/master/assets/twitter.svg" />
@@ -18,17 +16,20 @@
 Hi, I'm Ismael Espindola, a passionate self-taught Backend Developer and Visual Designer from Argentina.
 
 - 🔭 I’m currently working on my project [Simple Django-based website](https://github.com/EspiFreelancer/Django_simple_website)
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning [Node.js](https://github.com/EspiFreelancer/NodeJS-simple-website)
 - 👯 I am looking to collaborate on an innovative projects with great teams!
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[**My resume**](https://espifreelancer.github.io)
 
 <!--- 
   if you have forked this to use on your profile, 
