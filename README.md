@@ -15,8 +15,10 @@
 
 Hi, I'm Ismael Espindola, a passionate self-taught Backend Developer and Visual Designer from Argentina.
 
-- 🔭 I’m currently working on my project [Simple Django-based website](https://github.com/EspiFreelancer/Django_simple_website)
-- 🌱 I’m currently learning [Node.js](https://github.com/EspiFreelancer/NodeJS-simple-website)
+- 🕑 My previous favorite project is [Simple Django-based website](https://github.com/EspiFreelancer/Django_simple_website)
+- 🔭 I’m currently working on my project [
+VueJS-simple-task (Bootstrap-Vue + Vuex + VeeValidate)](https://github.com/EspiFreelancer/VueJS-simple-task)
+- 🌱 I’m currently learning **Front-end and UI Design**
 - 👯 I am looking to collaborate on an innovative projects with great teams!
 
 **Languages and Tools:**  
