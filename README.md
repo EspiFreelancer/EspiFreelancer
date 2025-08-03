@@ -13,23 +13,45 @@
 <br />
 <br />
 
-Hi, I'm Ismael Espindola, a passionate self-taught Backend Developer and Visual Designer from Argentina.
+Hi, I'm Ismael Espindola, a passionate Azure Cloud Developer and Python Backend development enthusiast.
 
 - 🕑 My previous favorite project is [Simple Django-based website](https://github.com/EspiFreelancer/Django_simple_website)
-- 🔭 I’m currently working on my project [
-VueJS-simple-task (Bootstrap-Vue + Vuex + VeeValidate)](https://github.com/EspiFreelancer/VueJS-simple-task)
-- 🌱 I’m currently learning **Front-end and UI Design**
+- 🔭 I'm currently practicing with [FastAPI](https://fastapi.tiangolo.com/)
+- 🌱 I’m currently learning **IaC - Azure Cloud**
 - 👯 I am looking to collaborate on an innovative projects with great teams!
 
-**Languages and Tools:**  
+<br />
+<br />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>-->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+**Languages and Tools:** 
+
+<p float="left">
+
+<img style="padding:5px;" align="center" alt="Azure" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg">
+<img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
+<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
+<img style="padding:5px;" align="center" alt="Django" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg">
+<img style="padding:5px;" align="center" alt="PostgreSQLGit" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg">
+<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
+<img style="padding:5px;" align="center" alt="GitHubTerminal" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg">
+<img style="padding:5px;" align="center" alt="GithubActions" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg">
+<img style="padding:5px;" align="center" alt="Linux" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg">
+<img style="padding:5px;" align="center" alt="Terminal" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg">
+
+
+<!--<img style="padding:5px;" align="center" alt="Flask" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg">-->
+<!--<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">-->
+<!--<img style="padding:5px;" align="center" alt="VueJS" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg">-->
+<!--<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">-->
+
+<!--
+  If you're wondering why several of the icons above are commented out, it's because I need to catch up on those technologies.
+-->
+
+</p>
+
+<br />
+<br />
 
 [**My resume**](https://espifreelancer.github.io)
 
