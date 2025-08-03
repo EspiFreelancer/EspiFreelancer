@@ -1,19 +1,18 @@
-### Hi there, I'm [EspiFreelancer](https://espifreelancer.github.io) 👋
-
-<a href="https://twitter.com/espifreelancer">
-  <img align="left" alt="EspiFreelancer | Twitter" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/master/assets/twitter.svg" />
-</a>
-<a href="https://ar.linkedin.com/in/espifreelancer">
-  <img align="left" alt="EspiFreelancer | LinkedIn" width="21px" src="https://raw.githubusercontent.com/EspiFreelancer/EspiFreelancer/master/assets/linkedin.png" />
-</a>
-<a href="https://espifreelancer.com">
-  <img align="left" alt="EspiFreelancer | Blog" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/master/assets/webglobe.svg" />
-</a>
+<h2 align="center">Hi there 👋, I'm EspiFreelancer</h2>
 
 <br />
-<br />
+<p align="center">
+  <a href="https://twitter.com/espifreelancer"><img alt="| X |" width="23px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/master/assets/x.svg" /></a> 
+  <a href="https://espifreelancer.com"><img alt="| My Blog |" width="21px" src="https://raw.githubusercontent.com/espifreelancer/espifreelancer/master/assets/webglobe.svg" /></a>
+  <a href="https://ar.linkedin.com/in/espifreelancer"><img alt="| LinkedIn |" width="21px" src="https://raw.githubusercontent.com/EspiFreelancer/EspiFreelancer/master/assets/linkedin.png" /></a>
+</p>
 
-Hi, I'm Ismael Espindola, a passionate Azure Cloud Developer and Python Backend development enthusiast.
+<h2></h2>
+<br />
+<br />
+<h4> Hi, I'm Ismael Espindola, a passionate Azure Cloud Developer and Python Backend development enthusiast.</h4>
+
+<br />
 
 - 🕑 My previous favorite project is [Simple Django-based website](https://github.com/EspiFreelancer/Django_simple_website)
 - 🔭 I'm currently practicing with [FastAPI](https://fastapi.tiangolo.com/)
@@ -23,7 +22,7 @@ Hi, I'm Ismael Espindola, a passionate Azure Cloud Developer and Python Backend 
 <br />
 <br />
 
-**Languages and Tools:** 
+### Languages and Tools: 
 
 <p float="left">
 
